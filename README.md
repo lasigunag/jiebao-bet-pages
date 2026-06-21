@@ -1,2 +1,14 @@
 # jiebao-bet-pages
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
